@@ -6,8 +6,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<figure><img src="https://wakatime.com/share/@018eac9b-b8f3-4b03-abd4-86ba16b14e13/372efd29-40cb-4668-a465-e4ca1fc0a75a.svg"></img></figure>
+
 <!---
 MuhammadZeeshanmz/MuhammadZeeshanmz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<figure><img src="https://wakatime.com/share/@018eac9b-b8f3-4b03-abd4-86ba16b14e13/372efd29-40cb-4668-a465-e4ca1fc0a75a.svg"></img></figure>
